@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cnl:home|Door43 (cnl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cnl|d43-cnl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cnl/archive/master.zip|d43-cnl.zip]]
+
+**Recent Changes**
+{{changes>ns = cnl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cnl|Ethnologue data]]
+
